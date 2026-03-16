@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "88.198.230.2",
+    "ip": "therelaxtg.mcsh.io",
     "port":2376,
     "version": "",
     "try-creative": false
